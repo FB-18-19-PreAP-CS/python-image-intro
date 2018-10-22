@@ -1,1 +1,1 @@
-"# Python Image Introduction" 
+# Python Image Introduction 
